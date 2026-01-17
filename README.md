@@ -41,3 +41,22 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueXF6ZGR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1TVr9W5RIc/giphy.gif" width="300" />
 </div>
+---
+
+### 💬 Daily Inspiration
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+</div>
+
+---
+
+### 👁️ Profile Stats
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rai-chronicle&label=Profile%20Views&color=00b4d8&style=flat-square" alt="Visitor Counter" />
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Last updated: Jan 2026 • Made with ❤️</sub>
+</div>

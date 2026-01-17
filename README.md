@@ -18,8 +18,13 @@
 
 ### 📊 My GitHub Journey
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rai-chronicle&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai-chronicle&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rai-chronicle&show_icons=true&theme=radical&hide_border=true&border_radius=10" height="180" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rai-chronicle&layout=compact&theme=radical&hide_border=true&border_radius=10" height="180" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rai-chronicle&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
